@@ -2,3 +2,9 @@ site_name: Pro Git
 
 theme:
   name: material
+
+# Page tree
+nav:
+  - Home: index.md
+  - Getting started:
+    - Installation: test.md
